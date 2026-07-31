@@ -12,6 +12,16 @@ An IoT and AI-based Smart Home Automation System that enables users to control h
 
 ## Technologies
 - ESP32
+
+- Flutter
+- Firebase
+- Python
+- MQTT
+- Machine Learning
+
+## Status
+
+🚧 Project Status: Under Development
 - Flutter
 - Firebase
 - Python
