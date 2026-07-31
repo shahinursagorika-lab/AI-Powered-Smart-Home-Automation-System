@@ -2,7 +2,7 @@
 
 An IoT and AI-based Smart Home Automation System that enables users to control home appliances remotely, monitor energy consumption, and receive intelligent recommendations.
 
-## Features
+# Features
 - Remote control of lights and fans
 - ESP32-based IoT system
 - Flutter mobile application
@@ -10,7 +10,7 @@ An IoT and AI-based Smart Home Automation System that enables users to control h
 - AI-powered energy monitoring
 - Real-time notifications
 
-## Technologies
+# Technologies
 - ESP32
 
 - Flutter
@@ -19,7 +19,7 @@ An IoT and AI-based Smart Home Automation System that enables users to control h
 - MQTT
 - Machine Learning
 
-## Status
+# Status
 
 🚧 Project Status: Under Development
 - Flutter
@@ -28,5 +28,12 @@ An IoT and AI-based Smart Home Automation System that enables users to control h
 - MQTT
 - Machine Learning
 
-## Status
-🚧 Currently under development.
+# Status
+🚧 🚧 Project Status: Currently Under Development
+#### Skills
+- Programming: C, C++, Python
+- Technologies: Flutter, Firebase, MQTT, Machine Learning
+- Languages:
+  - Bengali (Native)
+  - English (Professional Working Proficiency)
+  - Spanish (Conversational)
