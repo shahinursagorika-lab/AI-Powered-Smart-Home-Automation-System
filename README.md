@@ -11,7 +11,14 @@ An IoT and AI-based Smart Home Automation System that enables users to control h
 - Real-time notifications
 
 # Technologies
+
 - ESP32
+- Flutter
+- Firebase
+- Python
+- Arduino IDE
+- IoT
+
 
 - Flutter
 - Firebase
